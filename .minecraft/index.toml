@@ -129,11 +129,6 @@ hash = "625b150e7070043d16446738e23a9326fd66aad8cb426f4693783ecd00c817a5"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
-metafile = true
-
-[[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
 hash = "25bde6ab00dd8a553593c0dbd4c44fbe86551c078d0d9d3417adc50525c39567"
 metafile = true
@@ -309,11 +304,6 @@ hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
-file = "mods/netherex.pw.toml"
-hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
-metafile = true
-
-[[files]]
 file = "mods/omlib.pw.toml"
 hash = "b26dcb762a85ace42d3f3c2917d2eaf0dd759ee5e355bb986b07f723249dd4b1"
 metafile = true
@@ -356,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/psi.pw.toml"
 hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
-metafile = true
-
-[[files]]
-file = "mods/ptrlib.pw.toml"
-hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
 metafile = true
 
 [[files]]
