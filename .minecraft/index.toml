@@ -5,8 +5,20 @@ file = "mods/BiblioCraftv2.4.6MC1.12.2.jar"
 hash = "43f0fe963867bd74a18ac3f04caaf65c75d197abaf703f96b8282af6b843f2f8"
 
 [[files]]
+file = "mods/Decocraft-2.6.3.7_1.12.2.jar"
+hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
+
+[[files]]
 file = "mods/FurbishCraft+1.2.1+1.12.2.jar"
 hash = "5c20407965d08b3225775b347a6bf7308f3e33e7f5a32e2f9f4275e80bd45ca5"
+
+[[files]]
+file = "mods/NetherEx-1.12.2-2.2.5.jar"
+hash = "ab71d3f63d8905727c769ddfe8c4849d735a4d9feb502a9135ce27e16bca815e"
+
+[[files]]
+file = "mods/PTRLib-1.0.5.jar"
+hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 
 [[files]]
 file = "mods/admin-shop.pw.toml"
