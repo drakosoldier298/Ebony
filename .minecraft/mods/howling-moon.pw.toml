@@ -1,0 +1,13 @@
+name = "Howling Moon"
+filename = "howlingmoon-1.12.2-0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fe60b1dfd5a3e2f7156e29950500b542f0be668"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2567452
+project-id = 236149

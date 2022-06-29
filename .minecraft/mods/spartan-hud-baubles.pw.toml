@@ -1,0 +1,13 @@
+name = "Spartan HUD: Baubles"
+filename = "SpartanHUDBaubles-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f08db9ce1becd829aacc1e531caf4384c0e208f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3566426
+project-id = 557117

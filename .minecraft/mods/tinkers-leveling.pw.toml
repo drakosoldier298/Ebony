@@ -1,0 +1,13 @@
+name = "Tinkers Leveling"
+filename = "tinkers_leveling-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c570f11984f330ab4f462620b56ccc72b0fcf061"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3509461
+project-id = 480023

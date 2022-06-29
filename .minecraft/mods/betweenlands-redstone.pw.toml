@@ -1,0 +1,13 @@
+name = "Betweenlands Redstone"
+filename = "BetweenlandsRedstone-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecab20ed3bd280e0d87e1ddbda140f2455d0895e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835800
+project-id = 567792

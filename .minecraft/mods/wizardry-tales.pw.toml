@@ -1,0 +1,13 @@
+name = "Wizardry Tales"
+filename = "WizardryTales-1.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5aa66bfaaed6f9e4c6b0345cf2a4cfc06885654f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3847409
+project-id = 502183

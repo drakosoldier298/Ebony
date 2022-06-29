@@ -1,0 +1,13 @@
+name = "[SBM] Magic Mirror"
+filename = "SBM-Magic-Mirror-1.12.2-1.0.0b20190608175011.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed5251ca8f33bd0953a0b4f651bcd24f49520059"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2722073
+project-id = 250881
